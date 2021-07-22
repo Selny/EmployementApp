@@ -1,0 +1,15 @@
+/Users/eminsplace/Projects/EmployementApp/bin/Debug/net5.0/EmployementApp.deps.json
+/Users/eminsplace/Projects/EmployementApp/bin/Debug/net5.0/EmployementApp.runtimeconfig.json
+/Users/eminsplace/Projects/EmployementApp/bin/Debug/net5.0/EmployementApp.runtimeconfig.dev.json
+/Users/eminsplace/Projects/EmployementApp/bin/Debug/net5.0/EmployementApp.dll
+/Users/eminsplace/Projects/EmployementApp/bin/Debug/net5.0/ref/EmployementApp.dll
+/Users/eminsplace/Projects/EmployementApp/bin/Debug/net5.0/EmployementApp.pdb
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/EmployementApp.csproj.AssemblyReference.cache
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/EmployementApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/EmployementApp.AssemblyInfoInputs.cache
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/EmployementApp.AssemblyInfo.cs
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/EmployementApp.csproj.CoreCompileInputs.cache
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/EmployementApp.dll
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/ref/EmployementApp.dll
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/EmployementApp.pdb
+/Users/eminsplace/Projects/EmployementApp/obj/Debug/net5.0/EmployementApp.genruntimeconfig.cache
